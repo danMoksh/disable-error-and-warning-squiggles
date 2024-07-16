@@ -2,6 +2,9 @@
 
 A VS Code Extension to disable the error and warning squiggles in VS Code. I wanted to disable these annoying squiggles while I write pseudocode (before transforming it into an actual working code), to my surprise I couldn't find an extension that does this for all the languages (This feature was only built-in in the C/C++ extension) so here I am :)
 
+![x-screenshot](x-screenshot.png)
+Unrelatable to me now, that I am using this extension :P
+
 ## Overview
 
 The **Disable Error and Warning Squiggles** extension allows you to toggle the visibility of error and warning squiggles in your Visual Studio Code editor. This can be useful when you want a cleaner look while coding or presenting.
